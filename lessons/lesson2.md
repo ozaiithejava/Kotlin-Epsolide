@@ -10,7 +10,7 @@ In our second lesson, we will learn about variables.
 Variables are things we use to assign values to something and store these values.
 
 Okay, how to write a variable?
-```java
+```ktolin
 fun main() {
     var name: String = "John"
 }
@@ -27,7 +27,7 @@ okey i stand this keyword but i dont know a String keyword.
 
 good. lets make a another varibale
 
-```java
+```ktolin
 fun main() {
     var age: Int = 25
 }
@@ -63,7 +63,7 @@ Okay, let's go to printing my name in the console.
 okey but i dont your name ?
 my name is yigit
 lets do it
-```java
+```ktolin
 fun main() {
     var name: String = "yigit"
      println(name)       
