@@ -79,7 +79,7 @@ fun main() {
 }
 ```
 <details>
-  <summary>Explanation of Outputs</summary>
+  <summary>Explanation of Outputs(click mee!)</summary>
 
 - **Addition**: 10 + 5 = 15
 - **Subtraction**: 20 - 4 = 16
