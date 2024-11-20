@@ -71,3 +71,6 @@ fun main() {
 }
 ```
 "Great! You learned how to print variables in the console."
+
+[Click here to go to lesson three](https://github.com/ozaiithejava/Kotlin-Epsolide/blob/main/lessons/lesson3.md)
+
