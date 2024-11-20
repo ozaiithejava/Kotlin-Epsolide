@@ -46,3 +46,6 @@ Click the <span style="color:green;">green</span> button and run it.
 Congratulations! You ran your first code.
 
 Okay, let's go to lesson two
+
+[Click here to go to lesson two](https://github.com/ozaiithejava/Kotlin-Epsolide/blob/main/lessons/lesson2.md)
+
