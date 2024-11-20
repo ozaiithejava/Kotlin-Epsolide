@@ -1,4 +1,4 @@
-## Welcome to Lesson There
+## Welcome to Lesson Three
 
 #### You are doing great! Now, we will learn how to assign variables.
 
