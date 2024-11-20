@@ -64,3 +64,5 @@ String interpolation helps you avoid messy concatenations and makes the code mor
 
 Now you know how to use string interpolation in Kotlin! It's a small but very helpful feature that makes your code more efficient. Keep practicing, and you'll be a Kotlin expert in no time! 😊
 
+[Click here to go to lesson eight](https://github.com/ozaiithejava/Kotlin-Epsolide/blob/main/lessons/lesson8.md)
+
