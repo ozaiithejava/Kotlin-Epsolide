@@ -88,3 +88,6 @@ fun main() {
 - **Modulus**: 17 % 5 = 2 (remainder of 17 divided by 5)
 
 </details>
+
+[Click here to go to lesson five](https://github.com/ozaiithejava/Kotlin-Epsolide/blob/main/lessons/lesson5.md)
+
