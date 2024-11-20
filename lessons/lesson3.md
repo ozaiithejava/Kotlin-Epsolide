@@ -41,3 +41,5 @@ Congratulations! You made a final variable.
 Okay, good! But what is a final variable?
 
 Final variables are created using val and can never be changed.
+
+[Click here to go to lesson four](https://github.com/ozaiithejava/Kotlin-Epsolide/blob/main/lessons/lesson4.md)
