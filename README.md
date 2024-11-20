@@ -38,8 +38,11 @@ Congratulations! You wrote your first code.
 
 How do I run this code (program)?
 Okay, let's do it!
-![img.png](img.png)
+
+![Ekran Görüntüsü](https://github.com/ozaiithejava/Kotlin-Epsolide/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-11-20%20033353.png)
 
 click the green button and run it.
 
 Congratulations! You ran your first code.
+
+Okay, let's go to lesson two
