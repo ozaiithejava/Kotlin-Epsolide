@@ -67,3 +67,4 @@ In this case, the code will print the current `count`, and then it checks if `co
 
 Loops are really powerful for repeating tasks efficiently. You’ll be using them a lot in your programs!
 
+[Click here to go to lesson seven](https://github.com/ozaiithejava/Kotlin-Epsolide/blob/main/lessons/lesson7.md)
