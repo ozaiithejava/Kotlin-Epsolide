@@ -64,3 +64,5 @@ fun main() {
 }
 ```
 Here, we have a variable number that holds the value 10. If the remainder of dividing number by 2 is 0, meaning it’s an even number, the result variable is assigned the value 'Even'. Otherwise, it is assigned the value 'Odd'.
+
+[Click here to go to lesson six](https://github.com/ozaiithejava/Kotlin-Epsolide/blob/main/lessons/lesson6.md)
