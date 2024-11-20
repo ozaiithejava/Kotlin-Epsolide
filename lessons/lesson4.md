@@ -6,7 +6,7 @@
 Okay, let's look at these shortcuts for the math operators.
 
 
-```markdown
+
 | **Shortcut** | **Description**                 | **Example**              |
 |--------------|---------------------------------|--------------------------|
 | `+=`         | Addition                        | `number += 3`            |
@@ -14,7 +14,7 @@ Okay, let's look at these shortcuts for the math operators.
 | `*=`         | Multiplication                  | `number *= 3`            |
 | `/=`         | Division                        | `number /= 3`            |
 | `%=`         | Modulus (Remainder)             | `number %= 3`            |
-```
+
 
 ### Descriptions:
 - **`+=`**: Adds the value to the variable and assigns the result back.
